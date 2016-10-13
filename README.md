@@ -9,8 +9,8 @@ Angular cli version 1.0.0-beta.16.
 
 # install
 
-1. Npm install 
-2. Ng serve
+1. npm install 
+2. ng serve
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
