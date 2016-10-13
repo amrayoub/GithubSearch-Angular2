@@ -10,13 +10,12 @@ Angular cli version 1.0.0-beta.16.
 # install
 
 1. Npm install
-2. change code in /src/app/github.service.ts line number off 11, 12, 13
+2. change code in /src/app/github.service.ts 
 
-'
-private username = 'key';
-private client_id = 'key';  
-private client_secret = 'key';  
-'
+ private username = 'key';
+ private client_id = 'key';  
+ private client_secret = 'key';  
+
 
 3. Ng serve
 
